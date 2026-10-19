@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "route": "/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 356.8125
+    },
+    {
+      "width": 1440,
+      "route": "/games/project-pencil/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 356.8125
+    },
+    {
+      "width": 1440,
+      "route": "/games/quintarc/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 356.8125
+    },
+    {
+      "width": 1440,
+      "route": "/credits/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 356.8125
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 311.8125
+    },
+    {
+      "width": 390,
+      "route": "/games/project-pencil/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 311.8125
+    },
+    {
+      "width": 390,
+      "route": "/games/quintarc/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 311.8125
+    },
+    {
+      "width": 390,
+      "route": "/credits/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 311.8125
+    },
+    {
+      "width": 320,
+      "route": "/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 279
+    },
+    {
+      "width": 320,
+      "route": "/games/project-pencil/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 279
+    },
+    {
+      "width": 320,
+      "route": "/games/quintarc/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 279
+    },
+    {
+      "width": 320,
+      "route": "/credits/",
+      "itch": "https://wobumii.itch.io/",
+      "footerWidth": 279
+    }
+  ]
+}

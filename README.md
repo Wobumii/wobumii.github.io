@@ -41,7 +41,7 @@ The existing Project Pencil cover and QUINTARC seal are reused from the owner’
 
 Header/footer wordmarks use the supplied black-and-white `assets/wobumii-wordmark.png`. Every page uses the supplied `assets/wobumii-icon.png` as its favicon. Both originals are copied unchanged. The theme uses black and white, heavy borders, square panels, oversized type, offset shadows and monochrome artwork. Game card covers share an 63:50 frame with contained images; flexible text sections keep their footers aligned. Keep this shared sizing for future games.
 
-The About Me section contains Anthony’s revised biography and his perspective on AI as a creative tool. Email links use wobumii.games@gmail.com. Canonical URLs, sitemap and structured data use https://wobumii.github.io/. The footer pairs the studio wordmark with a separator dot and a YouTube icon linking to @Wobumii. Game art is monochrome by default and reveals its original colors on hover or keyboard focus; guide covers also link to the full original image.
+The About Me section contains Anthony’s revised biography and his perspective on AI as a creative tool. Email links use wobumii.games@gmail.com. Canonical URLs, sitemap and structured data use https://wobumii.github.io/. The footer pairs the studio wordmark with separator dots plus YouTube (@Wobumii) and itch.io icons linking to the studio profiles. Game art is monochrome by default and reveals its original colors on hover or keyboard focus; guide covers also link to the full original image.
 
 ## Search and social metadata
 

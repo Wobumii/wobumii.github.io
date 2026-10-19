@@ -348,3 +348,9 @@ main.wrap>.contact-section.wrap{width:100%}
 .symbol-body li strong{display:block;margin-bottom:6px;font-size:14px}
 @media(max-width:600px){.symbol-grid{grid-template-columns:1fr}.symbol-heading{min-height:104px;padding:18px}.symbol-body{padding:18px}}
 @media(prefers-reduced-motion:reduce){.info-card img,.item-card img,.mob-card img,.spell-card img,.boss-list img,.store-button[href] .store-icon{transition:none}}
+
+.itch-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;color:#000;flex:none}
+.itch-link svg{display:block}
+.itch-link:is(:hover,:focus-visible){color:#fa5c5c}
+@media(max-width:600px){.footer-brand-group{gap:10px}}
+@media(max-width:360px){.footer-brand-group{gap:6px}.footer-brand-group .footer-dot{width:6px;text-align:center;flex:none}}
