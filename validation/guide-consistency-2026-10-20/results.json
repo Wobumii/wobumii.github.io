@@ -1,0 +1,164 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "route": "/",
+      "headerLogo": 168,
+      "footerLogo": 168
+    },
+    {
+      "width": 1440,
+      "route": "/games/project-pencil/",
+      "headerLogo": 168,
+      "footerLogo": 168
+    },
+    {
+      "width": 1440,
+      "route": "/games/quintarc/",
+      "headerLogo": 168,
+      "footerLogo": 168,
+      "symbols": {
+        "count": 70,
+        "minHeight": 110,
+        "maxHeight": 110,
+        "expandSearchEmptyClear": "passed"
+      }
+    },
+    {
+      "width": 1440,
+      "route": "/credits/",
+      "headerLogo": 168,
+      "footerLogo": 168
+    },
+    {
+      "width": 960,
+      "route": "/",
+      "headerLogo": 168,
+      "footerLogo": 168
+    },
+    {
+      "width": 960,
+      "route": "/games/project-pencil/",
+      "headerLogo": 168,
+      "footerLogo": 168
+    },
+    {
+      "width": 960,
+      "route": "/games/quintarc/",
+      "headerLogo": 168,
+      "footerLogo": 168,
+      "symbols": {
+        "count": 70,
+        "minHeight": 110,
+        "maxHeight": 110,
+        "expandSearchEmptyClear": "passed"
+      }
+    },
+    {
+      "width": 960,
+      "route": "/credits/",
+      "headerLogo": 168,
+      "footerLogo": 168
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "headerLogo": 155,
+      "footerLogo": 155
+    },
+    {
+      "width": 390,
+      "route": "/games/project-pencil/",
+      "headerLogo": 155,
+      "footerLogo": 155
+    },
+    {
+      "width": 390,
+      "route": "/games/quintarc/",
+      "headerLogo": 155,
+      "footerLogo": 155,
+      "symbols": {
+        "count": 70,
+        "minHeight": 104,
+        "maxHeight": 104,
+        "expandSearchEmptyClear": "passed"
+      }
+    },
+    {
+      "width": 390,
+      "route": "/credits/",
+      "headerLogo": 155,
+      "footerLogo": 155
+    }
+  ],
+  "color_checks": {
+    "pencil-gray-final.png": {
+      "colored_pixels": 70,
+      "fraction": 0.00054
+    },
+    "pencil-color-final.png": {
+      "colored_pixels": 125196,
+      "fraction": 0.96002
+    },
+    "quintarc-hover-color.png": {
+      "colored_pixels": 124933,
+      "fraction": 0.95564
+    },
+    "quintarc-focus-color.png": {
+      "colored_pixels": 124933,
+      "fraction": 0.95564
+    },
+    "pencil-hero-hover-color.png": {
+      "colored_pixels": 206278,
+      "fraction": 0.91837
+    },
+    "pencil-hero-focus-color.png": {
+      "colored_pixels": 215881,
+      "fraction": 0.96112
+    },
+    "quintarc-hero-hover-color.png": {
+      "colored_pixels": 215001,
+      "fraction": 0.95721
+    },
+    "quintarc-hero-focus-color.png": {
+      "colored_pixels": 215761,
+      "fraction": 0.96059
+    },
+    "pencil-itch-hover.png": {
+      "colored_pixels": 2799,
+      "fraction": 0.42949
+    },
+    "quintarc-itch-hover.png": {
+      "colored_pixels": 2799,
+      "fraction": 0.42949
+    },
+    "pencil-steam-disabled.png": {
+      "colored_pixels": 0,
+      "fraction": 0.0
+    },
+    "pencil-epic-disabled.png": {
+      "colored_pixels": 0,
+      "fraction": 0.0
+    },
+    "quintarc-steam-disabled.png": {
+      "colored_pixels": 0,
+      "fraction": 0.0
+    },
+    "quintarc-epic-disabled.png": {
+      "colored_pixels": 0,
+      "fraction": 0.0
+    },
+    "pencil-mob-color.png": {
+      "colored_pixels": 32298,
+      "fraction": 0.38792
+    },
+    "quintarc-mob-color.png": {
+      "colored_pixels": 2030,
+      "fraction": 0.02438
+    },
+    "item-color.png": {
+      "colored_pixels": 7740,
+      "fraction": 0.98825
+    }
+  }
+}
