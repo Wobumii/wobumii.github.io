@@ -1,0 +1,69 @@
+{
+  "keyboard": {
+    "state": "won",
+    "stages": [
+      "Sparks: 2/5. Nice idea!",
+      "Sparks: 3/5. Nice idea!",
+      "Sparks: 4/5. Nice idea!",
+      "You won! Five sparks, one playable idea."
+    ],
+    "errors": [],
+    "status": "You won! Five sparks, one playable idea."
+  },
+  "responsive": {
+    "results": [
+      {
+        "width": 1440,
+        "canvas": {
+          "x": 837.78125,
+          "y": 227,
+          "width": 519.21875,
+          "height": 389.40625
+        },
+        "controls": "start/pause/resume/Escape/restart/offscreen pause passed"
+      },
+      {
+        "width": 960,
+        "canvas": {
+          "x": 559.34375,
+          "y": 227,
+          "width": 369.65625,
+          "height": 277.234375
+        },
+        "controls": "start/pause/resume/Escape/restart/offscreen pause passed"
+      },
+      {
+        "width": 390,
+        "canvas": {
+          "x": 23,
+          "y": 690.75,
+          "width": 344,
+          "height": 258
+        },
+        "controls": "start/pause/resume/Escape/restart/offscreen pause passed"
+      },
+      {
+        "width": 320,
+        "canvas": {
+          "x": 23,
+          "y": 715.453125,
+          "width": 274,
+          "height": 205.5
+        },
+        "controls": "start/pause/resume/Escape/restart/offscreen pause passed"
+      }
+    ],
+    "touch": "Play and Jump tapped in touch-enabled mobile browser"
+  },
+  "touch_jump_render_changed": true,
+  "references": [
+    {
+      "name": "Wobumii_YouTube_Corrected_2560x1440.png",
+      "sha256": "1afd424612cc0382e5833abbaac8d5a7d5d73f78af372049fab39b213fb2fdb5"
+    },
+    {
+      "name": "Wobumii_itchio_2048x512.png",
+      "sha256": "6ede9f737ee1935e66bc3d3650e391a7b0547ae69fb8c2ae20617431560ba2c7"
+    }
+  ]
+}

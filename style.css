@@ -354,3 +354,34 @@ main.wrap>.contact-section.wrap{width:100%}
 .itch-link:is(:hover,:focus-visible){color:#fa5c5c}
 @media(max-width:600px){.footer-brand-group{gap:10px}}
 @media(max-width:360px){.footer-brand-group{gap:6px}.footer-brand-group .footer-dot{width:6px;text-align:center;flex:none}}
+
+/* A small canvas game lives only inside the studio panel. */
+.pixel-game{background:#fff;min-width:0}
+.pixel-stage{position:relative;isolation:isolate;aspect-ratio:4/3;overflow:hidden}
+#idea-game{display:block;width:100%;height:100%;image-rendering:pixelated;background:#fff;outline-offset:-5px;touch-action:none}
+.game-overlay{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;background:rgba(255,255,255,.94);text-align:center}
+.game-overlay .eyebrow{font-size:9px;margin-bottom:14px}
+.game-overlay h2{font-size:clamp(36px,4vw,58px);line-height:1;margin:0 0 16px;letter-spacing:-3px}
+.game-overlay>p:not(.eyebrow){font-size:12px;line-height:1.7;margin-bottom:24px}
+.game-overlay .button{min-width:130px}
+.game-toolbar{display:flex;align-items:center;gap:8px;border-top:2px solid #000;padding:10px 12px;font:10px/1.5 var(--mono)}
+#game-status{flex:1;min-width:0}
+.game-action{display:grid;place-items:center;min-height:36px;min-width:36px;padding:6px;border:1px solid #000;background:#fff;color:#000;font:700 10px var(--mono);cursor:pointer}
+.game-action:disabled{opacity:.35;cursor:default}
+.game-controls{display:flex;gap:10px;padding:4px 12px 10px}
+.game-controls button{min-height:44px;flex:1;touch-action:none;border:2px solid #000;background:#fff;color:#000;font:700 12px var(--mono);cursor:pointer;user-select:none}
+.game-controls button:last-child{flex:1.5}
+.game-controls button:active,.game-controls button.is-pressed{background:#000;color:#fff}
+.game-controls button:disabled{opacity:.35;cursor:default}
+.game-help{margin:0;padding:0 12px 12px;font:9px/1.7 var(--mono);text-align:center}
+/* Banner language: registration crosses, small dot grids and diagonal hatching. */
+.hero{position:relative}
+.banner-detail{display:block;pointer-events:none;position:relative;color:#000;opacity:.18}
+.hero-detail{position:absolute;right:0;top:28px;width:66px;height:26px;background:radial-gradient(circle,#000 1.2px,transparent 1.5px) 0 0/9px 9px}
+.collection-detail{width:64px;height:15px;flex:none;background:repeating-linear-gradient(135deg,#000 0 3px,transparent 3px 9px)}
+.section-heading{position:relative}
+.collection-detail{position:absolute;right:0;top:0}
+.about-detail{width:26px;height:26px;margin-top:36px;opacity:.45;background:linear-gradient(#000,#000) center/2px 24px no-repeat,linear-gradient(#000,#000) center/24px 2px no-repeat}
+.studio-panel{position:relative}
+.studio-panel::before{content:"";position:absolute;left:-13px;top:-13px;width:20px;height:20px;border-left:1px solid #000;border-top:1px solid #000;pointer-events:none}
+@media(max-width:600px){.hero-detail{top:12px;width:39px;height:17px}.collection-detail{width:44px;height:12px}.game-overlay{padding:16px}.game-overlay h2{font-size:42px}.game-overlay>p:not(.eyebrow){font-size:11px;margin-bottom:18px}.game-overlay .eyebrow{font-size:8px}.game-toolbar{font-size:9px}.game-help{font-size:8px}.studio-panel::before{left:-9px;top:-9px;width:14px;height:14px}}

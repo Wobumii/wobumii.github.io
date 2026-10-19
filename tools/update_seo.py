@@ -5,6 +5,7 @@ ROOT=Path(__file__).resolve().parents[1]
 BASE='https://wobumii.github.io/'
 CSS_VERSION=hashlib.sha256((ROOT/'style.css').read_bytes()).hexdigest()[:12]
 JS_VERSION=hashlib.sha256((ROOT/'site.js').read_bytes()).hexdigest()[:12]
+GAME_VERSION=hashlib.sha256((ROOT/'idea-hop.js').read_bytes()).hexdigest()[:12]
 PAGES={
  'index.html':('Wobumii - Indie Game Developer','Meet Anthony, a Filipino indie game developer, designer, and Product Manager. Explore Project Pencil and QUINTARC, with mechanics, controls, and game guides.','assets/wobumii-icon.png','Wobumii black-and-white W emblem',1280,1280),
  'games/project-pencil/index.html':('Project Pencil — Drawing Adventure & Game Guide | Wobumii','Discover Project Pencil, a first-person drawing adventure. Learn how to draw tools and weapons, explore the story, and find game modes, controls, and tips.','assets/project-pencil.png','Project Pencil — Draw your way through',630,500),
@@ -34,6 +35,7 @@ for path,(title,description,img,alt,width,height) in PAGES.items():
  for prop,val in {'og:type':'website','og:site_name':'Wobumii','og:locale':'en_PH','og:title':title,'og:description':description,'og:url':url,'og:image':BASE+img,'og:image:alt':alt,'og:image:type':'image/png','og:image:width':width,'og:image:height':height}.items():head.append(f'<meta property="{prop}" content="{esc(val)}">')
  for prop,val in {'twitter:card':'summary','twitter:title':title,'twitter:description':description,'twitter:image':BASE+img,'twitter:image:alt':alt}.items():head.append(f'<meta name="{prop}" content="{esc(val)}">')
  head.extend([f'<link rel="icon" href="{prefix}assets/wobumii-icon.png" type="image/png">',f'<link rel="stylesheet" href="{prefix}style.css?v={CSS_VERSION}">',f'<script src="{prefix}site.js?v={JS_VERSION}" defer></script>','<script type="application/ld+json">\n'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False,indent=2)+'\n</script>'])
+ if path=='index.html': head.insert(-1,f'<script src="/idea-hop.js?v={GAME_VERSION}" defer></script>')
  p=ROOT/path;text=p.read_text();
  text=re.sub(r'<head>.*?</head>','<head>\n'+'\n'.join(head)+'\n</head>',text,count=1,flags=re.S);p.write_text(text)
 (ROOT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls)+'</urlset>\n')

@@ -92,3 +92,7 @@ hits reveal a transparent silhouette without friendly damage.
 Header and footer wordmarks share the same sizes: 168px on desktop/tablet, 155px on mobile. Both game covers retain their full 63:50 original proportions. Game-cover links open the full original image. Cards, guide covers, mob portraits and item artwork reveal their source colors on hover; covers and spell cards also support keyboard focus. Store-brand colors apply only to linked store buttons, with disabled stores remaining monochrome.
 
 The QUINTARC symbol guide uses 70 alphabetically ordered native details tiles, preserving all 126 spell interactions. Search by symbol, spell name or effect; expanding a tile reveals its complete list. Closed tiles share consistent header heights. Mob/guide headings, portraits and paragraph spacing use the shared card styles.
+
+## Homepage mini game
+
+`idea-hop.js` powers the studio panel's Idea Hop platformer. The middle panel is a 320×240 pixel canvas with keyboard and touch controls; surrounding studio labels remain. Collect five sparks, then reach the flag. It starts only on Play and pauses when off-screen or inactive. The SEO generator adds this script only to the homepage with a content hash. Decorative crosses, dots and diagonal accents follow the owner's corrected Wobumii banners.
