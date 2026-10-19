@@ -352,8 +352,8 @@ main.wrap>.contact-section.wrap{width:100%}
 .itch-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;color:#000;flex:none}
 .itch-link svg{display:block}
 .itch-link:is(:hover,:focus-visible){color:#fa5c5c}
-@media(max-width:600px){.footer-brand-group{gap:10px}}
-@media(max-width:360px){.footer-brand-group{gap:6px}.footer-brand-group .footer-dot{width:6px;text-align:center;flex:none}}
+@media(max-width:600px){.footer-brand-group{gap:16px}}
+@media(max-width:360px){.footer-brand-group{gap:12px}.footer-brand-group .footer-dot{width:6px;text-align:center;flex:none}}
 
 /* A small canvas game lives only inside the studio panel. */
 .pixel-game{background:#fff;min-width:0}
