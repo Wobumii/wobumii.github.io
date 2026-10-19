@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "viewport": 1440,
+      "cards": [
+        {
+          "selector": ".pencil-card",
+          "width": 404.65625,
+          "height": 321.140625,
+          "gapLeft": 0,
+          "gapRight": 0
+        },
+        {
+          "selector": ".quintarc-card",
+          "width": 404.671875,
+          "height": 321.15625,
+          "gapLeft": 0,
+          "gapRight": 0
+        }
+      ]
+    },
+    {
+      "viewport": 1365,
+      "cards": [
+        {
+          "selector": ".pencil-card",
+          "width": 401,
+          "height": 318.25,
+          "gapLeft": 0,
+          "gapRight": 0
+        },
+        {
+          "selector": ".quintarc-card",
+          "width": 401,
+          "height": 318.25,
+          "gapLeft": 0,
+          "gapRight": 0
+        }
+      ]
+    },
+    {
+      "viewport": 1280,
+      "cards": [
+        {
+          "selector": ".pencil-card",
+          "width": 372.65625,
+          "height": 295.75,
+          "gapLeft": 0,
+          "gapRight": 0
+        },
+        {
+          "selector": ".quintarc-card",
+          "width": 372.671875,
+          "height": 295.765625,
+          "gapLeft": 0,
+          "gapRight": 0
+        }
+      ]
+    },
+    {
+      "viewport": 960,
+      "cards": [
+        {
+          "selector": ".pencil-card",
+          "width": 282,
+          "height": 223.796875,
+          "gapLeft": 0,
+          "gapRight": 0
+        },
+        {
+          "selector": ".quintarc-card",
+          "width": 282,
+          "height": 223.796875,
+          "gapLeft": 0,
+          "gapRight": 0
+        }
+      ]
+    },
+    {
+      "viewport": 390,
+      "cards": [
+        {
+          "selector": ".pencil-card",
+          "width": 344,
+          "height": 273.015625,
+          "gapLeft": 0,
+          "gapRight": 0
+        },
+        {
+          "selector": ".quintarc-card",
+          "width": 344,
+          "height": 273.015625,
+          "gapLeft": 0,
+          "gapRight": 0
+        }
+      ]
+    }
+  ]
+}
