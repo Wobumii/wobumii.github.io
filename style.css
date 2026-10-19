@@ -301,9 +301,9 @@ main.wrap>.contact-section.wrap{width:100%}
 .game-card:is(:hover,:focus-visible,:focus-within) .card-art img,.game-cover:is(:hover,:focus-visible,:focus-within) img{filter:grayscale(0)}
 .footer-brand-group{display:flex;align-items:center;gap:18px}
 .footer-dot{font-size:24px;line-height:1}
-.youtube-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;color:#000}
-.youtube-link svg{display:block;transition:transform .15s ease}
-.youtube-link:hover svg{transform:scale(1.1)}
+.youtube-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;color:#000;flex:none}
+.youtube-link svg{display:block;width:38px;height:38px}
+.youtube-link:is(:hover,:focus-visible){color:#ff0000}
 @media(prefers-reduced-motion:reduce){.card-art img,.game-cover img,.youtube-link svg{transition:none}}
 
 /* Consistent guide headings, portraits and spacing. */
