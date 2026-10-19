@@ -1,10 +1,10 @@
-# Just Poly Games
+# Wobumii
 
 **Indie games by Anthony, a game developer from the Philippines.**
 
-[Visit the portfolio](https://justpolygames.github.io/) · [Project Pencil guide](https://justpolygames.github.io/games/project-pencil/) · [QUINTARC guide](https://justpolygames.github.io/games/quintarc/)
+[Visit the portfolio](https://wobumii.github.io/) · [Project Pencil guide](https://wobumii.github.io/games/project-pencil/) · [QUINTARC guide](https://wobumii.github.io/games/quintarc/)
 
-I’m Anthony, the creator behind Just Poly Games. With experience in Web Design and UI/UX Design and a current role as a Product Manager, I’m turning a lifelong love of games into playable worlds.
+I’m Anthony, the creator behind Wobumii. With experience in Web Design and UI/UX Design and a current role as a Product Manager, I’m turning a lifelong love of games into playable worlds.
 
 - **Project Pencil:** a first-person drawing adventure where sketches become tools, weapons, and new ways forward.
 - **QUINTARC:** elemental spellcasting with five elements, 126 spells, a narrative campaign, and arena modes.
@@ -35,11 +35,13 @@ Edit HTML directly; shared styles and behavior live in `style.css` and `site.js`
 
 Game copy was checked against Project Pencil README and QUINTARC README, STORY_CAMPAIGN, SPELL_CATALOG, and generated spell descriptions on 2026-09-29. Development details may change. Store links lead to itch.io; native platform and hardware validation claims remain limited to recorded release checks.
 
-The existing Project Pencil cover and QUINTARC seal are reused from the owner’s game projects. The seal incorporates the previously licensed open-book silhouette from Game-icons.net; see `assets/ATTRIBUTION.md`. The portfolio controller is original CSS geometry. Visual inspiration: https://gitmastery.me/; no reference website code or assets were copied.
+The existing Project Pencil cover and QUINTARC seal are reused from the owner’s game projects. The seal incorporates the previously licensed open-book silhouette from Game-icons.net; see `assets/ATTRIBUTION.md`. The W emblem and wordmark are supplied Wobumii studio artwork. Visual inspiration: https://gitmastery.me/; no reference website code or assets were copied.
 
 ## Studio branding
 
-The header and footer use `just-poly-games.png`: the full JP / divider / JUST / POLY GAMES lockup, with the original bright colors, copied unchanged from the supplied artwork. The favicon retains the supplied `just-poly-icon.png`. Shared site accents follow the original logo’s vivid cyan, electric blue, and violet, with dark navy surfaces and readable text.
+Header/footer wordmarks use the supplied black-and-white `assets/wobumii-wordmark.png`. Every page uses the supplied `assets/wobumii-icon.png` as its favicon. Both originals are copied unchanged. The theme uses black and white, heavy borders, square panels, oversized type, offset shadows and monochrome artwork. Game card covers share an 8:5 frame with contained images; flexible text sections keep their footers aligned. Keep this shared sizing for future games.
+
+The About Me section contains Anthony’s revised biography and his perspective on AI as a creative tool. Email links use wobumii.games@gmail.com. Canonical URLs, sitemap and structured data use https://wobumii.github.io/. Existing social handles are retained.
 
 ## Search and social metadata
 

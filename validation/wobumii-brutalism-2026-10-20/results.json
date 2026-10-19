@@ -1,0 +1,127 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "route": "/",
+      "bodyWidth": 1440,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png",
+      "coverHeights": [
+        252.90625,
+        252.90625
+      ],
+      "cardFooterAligned": true
+    },
+    {
+      "width": 1440,
+      "route": "/games/project-pencil/",
+      "bodyWidth": 1440,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png"
+    },
+    {
+      "width": 1440,
+      "route": "/games/quintarc/",
+      "bodyWidth": 1440,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png",
+      "search": {
+        "total": 126,
+        "fireMatches": 78,
+        "emptyAndClear": "passed"
+      }
+    },
+    {
+      "width": 1440,
+      "route": "/credits/",
+      "bodyWidth": 1440,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png"
+    },
+    {
+      "width": 960,
+      "route": "/",
+      "bodyWidth": 960,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png",
+      "coverHeights": [
+        176.25,
+        176.25
+      ],
+      "cardFooterAligned": true
+    },
+    {
+      "width": 960,
+      "route": "/games/project-pencil/",
+      "bodyWidth": 960,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png"
+    },
+    {
+      "width": 960,
+      "route": "/games/quintarc/",
+      "bodyWidth": 960,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png",
+      "search": {
+        "total": 126,
+        "fireMatches": 78,
+        "emptyAndClear": "passed"
+      }
+    },
+    {
+      "width": 960,
+      "route": "/credits/",
+      "bodyWidth": 960,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png"
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "bodyWidth": 390,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png",
+      "coverHeights": [
+        215,
+        215
+      ],
+      "cardFooterAligned": true
+    },
+    {
+      "width": 390,
+      "route": "/games/project-pencil/",
+      "bodyWidth": 390,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png"
+    },
+    {
+      "width": 390,
+      "route": "/games/quintarc/",
+      "bodyWidth": 390,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png",
+      "search": {
+        "total": 126,
+        "fireMatches": 78,
+        "emptyAndClear": "passed"
+      }
+    },
+    {
+      "width": 390,
+      "route": "/credits/",
+      "bodyWidth": 390,
+      "logo": "/assets/wobumii-wordmark.png",
+      "favicon": "/assets/wobumii-icon.png"
+    }
+  ],
+  "pageErrors": [],
+  "static_checks": {
+    "local_links_and_assets": "passed",
+    "canonical_urls": "wobumii.github.io",
+    "favicon": "Wobumii W emblem on every page",
+    "source_assets": "byte-identical to supplied PNGs",
+    "structured_data_json": "valid",
+    "email": "wobumii.games@gmail.com"
+  }
+}

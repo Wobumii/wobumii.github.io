@@ -29,3 +29,7 @@ Element shapes are exported from QUINTARC’s shared HUD/orb geometry. Rune SVGs
 All nine debuff glyphs match the game. Authors, licenses and modifications: quintarc-symbols/sources.json. Ward spider: Quaternius Easy Enemy Pack (CC0). Gale Falcon eagle: Quaternius Animal Pack Vol.2 (CC0). Air boss: Quaternius Ultimate Monsters Goleling (CC0). Dragon: Cethiel / Drummyfish (CC0). Necromancer: recolored KayKit Hollow Seer with its staff (CC0). Turtle: Heathal (CC0). Scorpion: Guillaume “GuieA_7” Englert (CC BY-SA 4.0), adapted GLB retains the same license. Armadillo and Bison: Poly by Google (CC BY 3.0), added game animation rigs. Rune Colossus: hendori-sama / umask007 / Dm3d / OpenDungeons (CC BY 3.0). Full notices are in the QUINTARC license library.
 
 Binbun3D: Stylized Hit FX and Elemental Magic FX (CC0). The latter supplies the adapted projectile shader; see the QUINTARC license library.
+
+## Wobumii branding — 2026-10-20
+
+`wobumii-wordmark.png` and `wobumii-icon.png` are supplied Wobumii studio artwork, copied unchanged from the workspace originals. Header, footer and favicon use these black-and-white assets. The monochrome presentation of game artwork is applied with CSS; original files and their credits remain intact.
