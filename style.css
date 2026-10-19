@@ -376,12 +376,12 @@ main.wrap>.contact-section.wrap{width:100%}
 .game-help{margin:0;padding:0 12px 12px;font:9px/1.7 var(--mono);text-align:center}
 /* Banner language: registration crosses, small dot grids and diagonal hatching. */
 .hero{position:relative}
-.banner-detail{display:block;pointer-events:none;position:relative;color:#000;opacity:.72}
-.hero-detail{position:absolute;right:0;top:28px;width:92px;height:42px;background:conic-gradient(from 90deg at 3px 3px,transparent 0 270deg,#000 0) 0 0/12px 12px}
-.collection-detail{width:104px;height:20px;flex:none;transform:skewX(-12deg);background:repeating-linear-gradient(130deg,#000 0 5px,transparent 5px 13px)}
+.banner-detail{display:block;pointer-events:none;position:relative;color:#000;opacity:1}
+.hero-detail{position:absolute;right:0;top:28px;width:90px;height:52px;background:url("/assets/detail-square-grid.svg") center/contain no-repeat}
+.collection-detail{width:128px;height:22px;flex:none;background:url("/assets/detail-slanted-bars.svg") center/contain no-repeat}
 .section-heading{position:relative}
 .collection-detail{position:absolute;right:0;top:0}
-.about-detail{width:92px;height:42px;margin-top:36px;background:conic-gradient(from 90deg at 3px 3px,transparent 0 270deg,#000 0) 0 0/12px 12px}
+.about-detail{width:90px;height:52px;margin-top:36px;background:url("/assets/detail-square-grid.svg") center/contain no-repeat}
 .studio-panel{position:relative}
 .studio-panel::before{content:"";position:absolute;left:-13px;top:-13px;width:20px;height:20px;border-left:1px solid #000;border-top:1px solid #000;pointer-events:none}
-@media(max-width:600px){.hero-detail{top:10px;width:68px;height:30px}.collection-detail{width:68px;height:16px;top:-20px}.game-overlay{padding:16px}.game-overlay h2{font-size:42px}.game-overlay>p:not(.eyebrow){font-size:11px;margin-bottom:18px}.game-overlay .eyebrow{font-size:8px}.game-toolbar{font-size:9px}.game-help{font-size:8px}.studio-panel::before{left:-9px;top:-9px;width:14px;height:14px}}
+@media(max-width:600px){.hero-detail{top:10px;width:68px;height:40px}.collection-detail{width:94px;height:16px;top:-24px}.game-overlay{padding:16px}.game-overlay h2{font-size:42px}.game-overlay>p:not(.eyebrow){font-size:11px;margin-bottom:18px}.game-overlay .eyebrow{font-size:8px}.game-toolbar{font-size:9px}.game-help{font-size:8px}.studio-panel::before{left:-9px;top:-9px;width:14px;height:14px}}
