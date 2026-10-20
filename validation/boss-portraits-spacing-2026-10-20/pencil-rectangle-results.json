@@ -1,0 +1,44 @@
+[
+  {
+    "game": "project-pencil",
+    "width": 1440,
+    "count": 7,
+    "portraitWidth": 460,
+    "portraitHeight": 180
+  },
+  {
+    "game": "quintarc",
+    "width": 1440,
+    "count": 25,
+    "portraitWidth": 460,
+    "portraitHeight": 180
+  },
+  {
+    "game": "project-pencil",
+    "width": 960,
+    "count": 7,
+    "portraitWidth": 294,
+    "portraitHeight": 180
+  },
+  {
+    "game": "quintarc",
+    "width": 960,
+    "count": 25,
+    "portraitWidth": 294,
+    "portraitHeight": 180
+  },
+  {
+    "game": "project-pencil",
+    "width": 390,
+    "count": 7,
+    "portraitWidth": 306,
+    "portraitHeight": 180
+  },
+  {
+    "game": "quintarc",
+    "width": 390,
+    "count": 25,
+    "portraitWidth": 306,
+    "portraitHeight": 180
+  }
+]

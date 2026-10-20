@@ -20,3 +20,11 @@ capture; it does not indicate a content change. git diff --check passes.
 Checks were completed locally before publication. The user subsequently authorized
 committing and pushing these changes to the GitHub Pages main branch.
 Game source projects were not modified.
+
+## Project Pencil rectangle consistency follow-up
+
+All seven Project Pencil mob portraits now extend their baked #141c30 backdrop
+across the same bordered 180px-high frame used by QUINTARC. No bitmap edits.
+Browser comparisons at 1440/960/390px confirm identical portrait dimensions
+for both games: 460×180, 294×180, and 306×180 respectively. Screenshot inspected.
+See pencil-rectangle-results.json and local *-rectangle-*.png captures.

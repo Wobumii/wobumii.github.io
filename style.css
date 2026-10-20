@@ -314,8 +314,8 @@ main.wrap>.contact-section.wrap{width:100%}
 .info-card p{margin:0 0 14px}
 .info-card p:last-child{margin-bottom:0}
 .info-card p img{width:28px;height:28px;object-fit:contain;vertical-align:middle;margin-right:5px}
-.info-card>.mob-portrait{flex:none;height:180px;object-fit:contain}
-.info-card:is([data-mob],[data-boss])>.mob-portrait{background:#14121e;border:1px solid #000}
+.info-card>.mob-portrait{flex:none;height:180px;object-fit:contain;background:#14121e;border:1px solid #000}
+.info-card.mob-card>.mob-portrait{background:#141c30}
 .item-card{display:block}
 .item-card h4{margin:0 0 12px;font-size:18px;line-height:1.35}
 .info-card img,.item-card img,.mob-card img,.spell-card img,.boss-list img{transition:filter .2s ease}

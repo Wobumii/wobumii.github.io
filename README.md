@@ -106,3 +106,7 @@ between the final collection button and the feedback panel. Hero cover images
 are noninteractive, retaining their full proportions and hover color treatment.
 Browser checks at 1440, 960 and 390px are recorded in
 `validation/boss-portraits-spacing-2026-10-20/`.
+
+Project Pencil’s seven mob portraits share QUINTARC’s full-width 180px-high
+rectangular frame. Their background extends the original artwork’s #141c30
+backdrop across the frame, removing the square-on-white appearance.
