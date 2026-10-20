@@ -118,7 +118,7 @@ nav>a:hover{text-decoration:underline;text-underline-offset:5px}
 .game-cover:has(.quintarc-hero-cover){background:#000}
 
 .wiki-hero .tags{margin-top:26px}
-.wiki-layout{display:grid;grid-template-columns:190px minmax(0,1fr);gap:56px;padding-top:40px;border-top:3px solid #000}
+.wiki-layout{display:grid;grid-template-columns:190px minmax(0,1fr);gap:56px;padding-top:40px;margin-bottom:60px;border-top:3px solid #000}
 .wiki-content{min-width:0}
 .wiki-nav{position:sticky;top:128px;display:flex;flex-direction:column;align-items:stretch;gap:0;border:2px solid #000}
 .wiki-nav .eyebrow{padding:14px;margin:0;background:#000;color:#fff}
@@ -315,6 +315,7 @@ main.wrap>.contact-section.wrap{width:100%}
 .info-card p:last-child{margin-bottom:0}
 .info-card p img{width:28px;height:28px;object-fit:contain;vertical-align:middle;margin-right:5px}
 .info-card>.mob-portrait{flex:none;height:180px;object-fit:contain}
+.info-card:is([data-mob],[data-boss])>.mob-portrait{background:#14121e;border:1px solid #000}
 .item-card{display:block}
 .item-card h4{margin:0 0 12px;font-size:18px;line-height:1.35}
 .info-card img,.item-card img,.mob-card img,.spell-card img,.boss-list img{transition:filter .2s ease}

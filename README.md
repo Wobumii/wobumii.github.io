@@ -41,7 +41,7 @@ The existing Project Pencil cover and QUINTARC seal are reused from the owner’
 
 Header/footer wordmarks use the supplied black-and-white `assets/wobumii-wordmark.png`. Every page uses the supplied `assets/wobumii-icon.png` as its favicon. Both originals are copied unchanged. The theme uses black and white, heavy borders, square panels, oversized type, offset shadows and monochrome artwork. Game card covers share an 63:50 frame with contained images; flexible text sections keep their footers aligned. Keep this shared sizing for future games.
 
-The About Me section contains Anthony’s revised biography and his perspective on AI as a creative tool. Email links use wobumii.games@gmail.com. Canonical URLs, sitemap and structured data use https://wobumii.github.io/. The footer pairs the studio wordmark with separator dots plus YouTube (@Wobumii) and itch.io icons linking to the studio profiles. Game art is monochrome by default and reveals its original colors on hover or keyboard focus; guide covers also link to the full original image.
+The About Me section contains Anthony’s revised biography and his perspective on AI as a creative tool. Email links use wobumii.games@gmail.com. Canonical URLs, sitemap and structured data use https://wobumii.github.io/. The footer pairs the studio wordmark with separator dots plus YouTube (@Wobumii) and itch.io icons linking to the studio profiles. Game art is monochrome by default and reveals its original colors on hover or keyboard focus; guide covers display the full original image.
 
 ## Search and social metadata
 
@@ -89,10 +89,20 @@ hits reveal a transparent silhouette without friendly damage.
 
 ## Guide layout and color interactions
 
-Header and footer wordmarks share the same sizes: 168px on desktop/tablet, 155px on mobile. Both game covers retain their full 63:50 original proportions. Game-cover links open the full original image. Cards, guide covers, mob portraits and item artwork reveal their source colors on hover; covers and spell cards also support keyboard focus. Store-brand colors apply only to linked store buttons, with disabled stores remaining monochrome.
+Header and footer wordmarks share the same sizes: 168px on desktop/tablet, 155px on mobile. Both game covers retain their full 63:50 original proportions. Game-guide hero covers are noninteractive artwork. Cards, guide covers, mob portraits and item artwork reveal their source colors on hover; spell cards also support keyboard focus. Store-brand colors apply only to linked store buttons, with disabled stores remaining monochrome.
 
 The QUINTARC symbol guide uses 70 alphabetically ordered native details tiles, preserving all 126 spell interactions. Search by symbol, spell name or effect; expanding a tile reveals its complete list. Closed tiles share consistent header heights. Mob/guide headings, portraits and paragraph spacing use the shared card styles.
 
 ## Homepage mini game
 
 `idea-hop.js` powers the studio panel's Idea Hop platformer. The middle panel is a 320×240 pixel canvas with keyboard and touch controls; surrounding studio labels remain. Collect five sparks, then reach the flag. It starts only on Play and pauses when off-screen or inactive. The SEO generator adds this script only to the homepage with a content hash. Decorative crosses, dots and diagonal accents follow the owner's corrected Wobumii banners.
+
+## Guide portraits and spacing — 2026-10-20
+
+QUINTARC displays all five boss portraits alongside their spells and ultimates.
+Its 20 mob and five boss portraits use the spell icons’ dark background (#14121e),
+with the existing grayscale and hover color reveal. Both game guides leave 60px
+between the final collection button and the feedback panel. Hero cover images
+are noninteractive, retaining their full proportions and hover color treatment.
+Browser checks at 1440, 960 and 390px are recorded in
+`validation/boss-portraits-spacing-2026-10-20/`.

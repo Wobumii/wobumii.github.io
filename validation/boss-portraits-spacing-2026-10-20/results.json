@@ -1,0 +1,38 @@
+[
+  {
+    "game": "quintarc",
+    "width": 1440,
+    "gap": 60,
+    "heroLinked": false
+  },
+  {
+    "game": "project-pencil",
+    "width": 1440,
+    "gap": 60,
+    "heroLinked": false
+  },
+  {
+    "game": "quintarc",
+    "width": 960,
+    "gap": 60,
+    "heroLinked": false
+  },
+  {
+    "game": "project-pencil",
+    "width": 960,
+    "gap": 60,
+    "heroLinked": false
+  },
+  {
+    "game": "quintarc",
+    "width": 390,
+    "gap": 60,
+    "heroLinked": false
+  },
+  {
+    "game": "project-pencil",
+    "width": 390,
+    "gap": 60,
+    "heroLinked": false
+  }
+]
