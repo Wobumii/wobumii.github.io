@@ -234,7 +234,7 @@ main.wrap>.contact-section.wrap{width:100%}
 
 @media(max-width:600px){html{scroll-padding-top:170px}
 .wrap{width:calc(100% - 40px)}
-.header-inner{flex-wrap:wrap;gap:16px;padding-block:14px}
+.header-inner{flex-wrap:wrap;justify-content:center;gap:16px;padding-block:14px}
 .brand img.brand-logo{width:155px}
 .header-inner nav{width:100%;justify-content:space-between;gap:12px;border-top:1px solid #000;padding-top:12px}
 .header-inner nav>a{font-size:10px;white-space:nowrap}
