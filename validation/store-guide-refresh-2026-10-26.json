@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-26",
+  "source_versions": {
+    "project-pencil": "0.6.36",
+    "quintarc": "0.1.15"
+  },
+  "guides": [
+    "games/project-pencil/index.html",
+    "games/quintarc/index.html"
+  ],
+  "spell_cards": 126,
+  "current_spell_icons_match_source": 126,
+  "spell_symbol_groups": 84,
+  "spell_symbol_coverage": 126,
+  "licenses_sha256_verified": 72,
+  "local_links_and_anchors": "pass",
+  "browser_checks": {
+    "desktop": "1440x1000",
+    "mobile": "390x844",
+    "spell_search": "Cataclysm -> 1 of 126; Clear -> 126 of 126",
+    "symbol_search": "Arcane Ascension -> 1 of 84; Clear restores all"
+  },
+  "requested_removal": "Removed GitMastery inspiration/code/artwork/hosting sentence from Credits and matching README/attribution notes.",
+  "screenshots": {
+    "project-pencil": [
+      {
+        "path": "assets/screenshots/project-pencil/01-main-menu.png",
+        "sha256": "6f3e45cb2306b4f7c4a8c98dc550d12e22cfd5e01b23f630a62b8f605a1b8365"
+      },
+      {
+        "path": "assets/screenshots/project-pencil/02-character.png",
+        "sha256": "af779e76ec777dc279ec29d4d670436688394df6bc3c651e10d92c65fce42217"
+      },
+      {
+        "path": "assets/screenshots/project-pencil/03-dungeon.png",
+        "sha256": "42c556f318290c8667d1e0a9b1fdc6d2b52d4019a2502f243de1c9a6281b5efd"
+      },
+      {
+        "path": "assets/screenshots/project-pencil/04-drawing.png",
+        "sha256": "04826db321e93e5ab9a03c40d8073e77b733d63df6106ba306633829ea906359"
+      },
+      {
+        "path": "assets/screenshots/project-pencil/05-story-titan.png",
+        "sha256": "224b91018b94a374a20b24607061a51173f6a46630af3b2d9385d9d071fb2117"
+      }
+    ],
+    "quintarc": [
+      {
+        "path": "assets/screenshots/quintarc/01-main-menu.png",
+        "sha256": "5e90a05a12c721cdaad31a699cd3dc8d20338883c8d9475bc0802a453bde31ce"
+      },
+      {
+        "path": "assets/screenshots/quintarc/02-your-sage.png",
+        "sha256": "b25e796e64d144195cb69bae395e0517b3da8492c4c5bdf543413df1d4a2859e"
+      },
+      {
+        "path": "assets/screenshots/quintarc/04-spellbook.png",
+        "sha256": "65a1c7575d30173242abeffd3954fc4dc0386615a5f3370dd40f822c92f4aa0a"
+      },
+      {
+        "path": "assets/screenshots/quintarc/05-survival.png",
+        "sha256": "fce17b3f17ecc37d1c30347d966d2087f0a28ecfcb7fcace0b64c230d96b26f9"
+      },
+      {
+        "path": "assets/screenshots/quintarc/06-elemental-dome.png",
+        "sha256": "72a8029389a301bc7f582035a72662db9fe3de3d7ea6f9e72c7eb478267abc67"
+      }
+    ]
+  },
+  "portraits": {
+    "project-pencil": 38,
+    "quintarc": 25
+  },
+  "limits": "Native screenshots are staged scenes from the deployed source versions, not complete playthroughs. Initial portrait attempts used fullscreen dimensions; final portraits are 512x512. Pencil reported shader-cache header fallback diagnostics; final captures were visually inspected. No gameplay changes or binary uploads."
+}

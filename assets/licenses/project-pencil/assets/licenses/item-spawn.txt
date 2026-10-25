@@ -1,0 +1,4 @@
+item_spawn.ogg — original procedural smoke puff and chime, generated for Project Pencil.
+Source: tools/make_spawn_sound.py. No sampled recordings or third-party assets.
+Dedicated to the public domain under CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/

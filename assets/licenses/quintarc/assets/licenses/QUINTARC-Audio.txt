@@ -18,3 +18,31 @@ source paths and processing: assets/quintarc/audio/skill-processing.json.
 Runtime combines action identity with quieter recipe-element accents, shield,
 root/silence and signature cues. No synthesized or newly generated source audio.
 Reproduce: prepare_spell_audio.py, refine_spell_audio.py, prepare_skill_audio.py.
+
+2026-10-19 crafted spell audio: tools/craft_spell_audio.py builds layered action,
+elemental, impact and clash cues with three variations from these same retained
+CC0 recordings. Original cues remain intact. No new source recordings or synthetic
+oscillators/noise. Source hashes, layer recipes and decoded peak/RMS measurements
+are recorded in assets/quintarc/audio/crafted/manifest.json. Runtime uses bounded
+spatial voices and a dedicated spell-bus compressor/limiter.
+
+2026-10-20 material-led replacement: new source recordings (CC0), originals retained:
+- rubberduck, 40 CC0 water / splash / slime SFX:
+  https://opengameart.org/content/40-cc0-water-splash-slime-sfx
+- rubberduck, 80 CC0 RPG SFX (stone, fire and gem recordings):
+  https://opengameart.org/content/80-cc0-rpg-sfx
+- IgnasD, Ice breaking/shattering:
+  https://opengameart.org/content/ice-breakingshattering
+- bart, Steam release sounds:
+  https://opengameart.org/content/steam-release-sounds
+- AntumDeluge, Fire Crackling:
+  https://opengameart.org/content/fire-crackling/
+- artisticdude, Swishes Sound Pack:
+  https://opengameart.org/content/swishes-sound-pack
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+Selected raw recordings and archive membership: assets/quintarc/audio/foley-source/sources.json.
+Download URLs/hashes: docs/validation/spell-audio-2026-10-20/sources/downloads.json.
+Offline composition: tools/build_elemental_spell_audio.py.
+Delivered layers, source hashes, decoded peaks and explicit recipe mappings:
+assets/quintarc/audio/elemental/bank.json. No oscillator/noise synthesis or
+shared synthetic note sequences. Old crafted bank is retained as rejected history.

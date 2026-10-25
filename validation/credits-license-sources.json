@@ -1,4 +1,9 @@
 {
+  "verified_on": "2026-10-26",
+  "versions": {
+    "project-pencil": "0.6.36",
+    "quintarc": "0.1.15"
+  },
   "files": [
     {
       "game": "project-pencil",
@@ -50,6 +55,18 @@
     },
     {
       "game": "project-pencil",
+      "source": "assets/fonts/NotoSansCJK-LICENSE.txt",
+      "copy": "assets/licenses/project-pencil/assets/fonts/NotoSansCJK-LICENSE.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "game": "project-pencil",
+      "source": "assets/licenses/Enemy-Packs-CC0.txt",
+      "copy": "assets/licenses/project-pencil/assets/licenses/Enemy-Packs-CC0.txt",
+      "sha256": "1110d9575bd8cb49c82db0be2fb6342341e00ba7eaca86b27b1b5ed9c99ff1a7"
+    },
+    {
+      "game": "project-pencil",
       "source": "assets/licenses/Godot-Logo-CC-BY-4.0.txt",
       "copy": "assets/licenses/project-pencil/assets/licenses/Godot-Logo-CC-BY-4.0.txt",
       "sha256": "af5b255ee48b07a366018ffa74d096502dcbfdf4624ce39f43356799ade05077"
@@ -65,6 +82,12 @@
       "source": "assets/licenses/KayKit-Adventurers-CC0.txt",
       "copy": "assets/licenses/project-pencil/assets/licenses/KayKit-Adventurers-CC0.txt",
       "sha256": "50e3fb7858f1351436923f0fd4bb4ea9198db1248bb2325b46a66af94aac517e"
+    },
+    {
+      "game": "project-pencil",
+      "source": "assets/licenses/KayKit-Fantasy-Weapons-Bits-CC0.txt",
+      "copy": "assets/licenses/project-pencil/assets/licenses/KayKit-Fantasy-Weapons-Bits-CC0.txt",
+      "sha256": "cef02a74a4f2f24cec8fe9c63ee98f8b095d1f7b72b3a1af417db6458dd0b278"
     },
     {
       "game": "project-pencil",
@@ -104,6 +127,12 @@
     },
     {
       "game": "project-pencil",
+      "source": "assets/licenses/item-spawn.txt",
+      "copy": "assets/licenses/project-pencil/assets/licenses/item-spawn.txt",
+      "sha256": "fc38ff6b27a9dc18561614b5caed2cc4aabebe190161e92e82120f2c0d7c5ade"
+    },
+    {
+      "game": "project-pencil",
       "source": "assets/licenses/pencil-writing.txt",
       "copy": "assets/licenses/project-pencil/assets/licenses/pencil-writing.txt",
       "sha256": "595706a4de4b43a45d3534feac6febcb8ff951e8dbd3956a1eaf45d6a38c8abc"
@@ -113,6 +142,12 @@
       "source": "assets/licenses/sounds-CC0.txt",
       "copy": "assets/licenses/project-pencil/assets/licenses/sounds-CC0.txt",
       "sha256": "94283f9120e58e6a1cae5762053df42ee280d37fe34be22589c92b7dbc7b2d39"
+    },
+    {
+      "game": "project-pencil",
+      "source": "assets/licenses/titan-audio.txt",
+      "copy": "assets/licenses/project-pencil/assets/licenses/titan-audio.txt",
+      "sha256": "364fa70e6377f0b7f5178b22e8145f4308abc10bdd0159d41391ff23a84b0a81"
     },
     {
       "game": "quintarc",
@@ -164,6 +199,12 @@
     },
     {
       "game": "quintarc",
+      "source": "assets/fonts/NotoSansCJK-LICENSE.txt",
+      "copy": "assets/licenses/quintarc/assets/fonts/NotoSansCJK-LICENSE.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "game": "quintarc",
       "source": "assets/licenses/Godot-Logo-CC-BY-4.0.txt",
       "copy": "assets/licenses/quintarc/assets/licenses/Godot-Logo-CC-BY-4.0.txt",
       "sha256": "af5b255ee48b07a366018ffa74d096502dcbfdf4624ce39f43356799ade05077"
@@ -206,9 +247,21 @@
     },
     {
       "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Ancient-Dragon.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Ancient-Dragon.txt",
+      "sha256": "3e407b8459939ab23ca1b13726f90b2971e3244673bbda901225d10899980afc"
+    },
+    {
+      "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Armadillo.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Armadillo.txt",
+      "sha256": "c1edbad060b12e14ff4baee9f1593f54a13a4a1f6d8d4171e2d6c7deddc50d50"
+    },
+    {
+      "game": "quintarc",
       "source": "assets/licenses/QUINTARC-Audio.txt",
       "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Audio.txt",
-      "sha256": "9d1843f777c0b6e33eab72bdf43025665f3cb300fd01b7670eba7ae529ceea10"
+      "sha256": "18337a3089f3e9a65f2fd7ed33f928e8cd53737453072035a139eff5e56f1103"
     },
     {
       "game": "quintarc",
@@ -218,9 +271,27 @@
     },
     {
       "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Bison.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Bison.txt",
+      "sha256": "3ad07ec50afbc08b5bae1d064cf378bdc8ee1bce9b4959ef0fb499a63f552b83"
+    },
+    {
+      "game": "quintarc",
       "source": "assets/licenses/QUINTARC-Cinzel-OFL.txt",
       "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Cinzel-OFL.txt",
       "sha256": "f2b3029aba64c378bf0963b62945eee15e564fe4330b934c8f2eb058282b5e83"
+    },
+    {
+      "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Eagle.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Eagle.txt",
+      "sha256": "221b940ba164b18571d0cc9c8ddaaac25e5aed970f1273271487103622b2322a"
+    },
+    {
+      "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Easy-Enemies.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Easy-Enemies.txt",
+      "sha256": "3f0f67ce71d780e421f6b11f37402da07348ea3e23d77c16b1af05ad78023cb7"
     },
     {
       "game": "quintarc",
@@ -266,15 +337,51 @@
     },
     {
       "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Scorpion.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Scorpion.txt",
+      "sha256": "c03e849a56bc8873fbc883d314cb7f662150a309ea11269a2aada47b778c36e5"
+    },
+    {
+      "game": "quintarc",
       "source": "assets/licenses/QUINTARC-Skeletons.txt",
       "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Skeletons.txt",
       "sha256": "5d822abca4e08c5a91d329e5372b3dc605cba8d994f752cb0f7dfdb7a0a79954"
     },
     {
       "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Skill-Identity-Icons.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Skill-Identity-Icons.txt",
+      "sha256": "fac95252798668fab5ea2cb08338f2ebc6bf894a72b19a15af1ca62f0a6d2e79"
+    },
+    {
+      "game": "quintarc",
       "source": "assets/licenses/QUINTARC-Symbols.txt",
       "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Symbols.txt",
       "sha256": "e4d3e923a48daf795ba19c8c0d0bdb1d224bb3404b7ba0501a4c5ee7109bbe34"
+    },
+    {
+      "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Turtle.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Turtle.txt",
+      "sha256": "6503f83567c9e4e8b9c0ef82b88ce28fdeb5119e600fb8dc4962a5b10f88b0c5"
+    },
+    {
+      "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Ultimate-Monsters.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Ultimate-Monsters.txt",
+      "sha256": "de990ef6fc68cffd7fd1ae342c4d0c823b541b8848d8f76bca5d3339f4de6f6e"
+    },
+    {
+      "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Wave-Icon.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Wave-Icon.txt",
+      "sha256": "75bbcda3ece2e52df1160c066bd5ec987a41a395c6b323c070ee4f17ec2cf94e"
+    },
+    {
+      "game": "quintarc",
+      "source": "assets/licenses/QUINTARC-Wizard-CC0.txt",
+      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Wizard-CC0.txt",
+      "sha256": "e7d4dfcb991e936cdcd6500e7a323a14c61b7a1d48b2893fa32cc6c9fdd858de"
     },
     {
       "game": "quintarc",
@@ -326,76 +433,9 @@
     },
     {
       "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Easy-Enemies.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Easy-Enemies.txt",
-      "sha256": "3f0f67ce71d780e421f6b11f37402da07348ea3e23d77c16b1af05ad78023cb7"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Skill-Identity-Icons.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Skill-Identity-Icons.txt",
-      "sha256": "fac95252798668fab5ea2cb08338f2ebc6bf894a72b19a15af1ca62f0a6d2e79"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Wave-Icon.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Wave-Icon.txt",
-      "sha256": "75bbcda3ece2e52df1160c066bd5ec987a41a395c6b323c070ee4f17ec2cf94e"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Wizard-CC0.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Wizard-CC0.txt",
-      "sha256": "710de89c3f6095d584c8321e7bde31da8b080ed15852eb51d33efb0813610bba"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Ancient-Dragon.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Ancient-Dragon.txt",
-      "sha256": "3e407b8459939ab23ca1b13726f90b2971e3244673bbda901225d10899980afc"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Eagle.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Eagle.txt",
-      "sha256": "d2f7c0b68bfbb45aaab426c1949bd1e5e2b3f87b540423992c6f4cb725d0d936"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Armadillo.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Armadillo.txt",
-      "sha256": "c1edbad060b12e14ff4baee9f1593f54a13a4a1f6d8d4171e2d6c7deddc50d50"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Bison.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Bison.txt",
-      "sha256": "3ad07ec50afbc08b5bae1d064cf378bdc8ee1bce9b4959ef0fb499a63f552b83"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Scorpion.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Scorpion.txt",
-      "sha256": "c03e849a56bc8873fbc883d314cb7f662150a309ea11269a2aada47b778c36e5"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Turtle.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Turtle.txt",
-      "sha256": "6503f83567c9e4e8b9c0ef82b88ce28fdeb5119e600fb8dc4962a5b10f88b0c5"
-    },
-    {
-      "game": "quintarc",
-      "source": "assets/licenses/QUINTARC-Ultimate-Monsters.txt",
-      "copy": "assets/licenses/quintarc/assets/licenses/QUINTARC-Ultimate-Monsters.txt",
-      "sha256": "de990ef6fc68cffd7fd1ae342c4d0c823b541b8848d8f76bca5d3339f4de6f6e"
-    },
-    {
-      "game": "quintarc",
       "source": "assets/vfx/third_party/binbun-elemental/LICENSE.txt",
       "copy": "assets/licenses/quintarc/assets/vfx/third_party/binbun-elemental/LICENSE.txt",
       "sha256": "c673038ad3327f4244eecf157de5f993272bed1ecfa0ec604a889be420a11507"
     }
-  ],
-  "total": 66
+  ]
 }

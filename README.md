@@ -35,7 +35,7 @@ Edit HTML directly; shared styles and behavior live in `style.css` and `site.js`
 
 Game copy was checked against Project Pencil README and QUINTARC README, STORY_CAMPAIGN, SPELL_CATALOG, and generated spell descriptions on 2026-09-29. Development details may change. Store links lead to itch.io; native platform and hardware validation claims remain limited to recorded release checks.
 
-The existing Project Pencil cover and QUINTARC seal are reused from the owner’s game projects. The seal incorporates the previously licensed open-book silhouette from Game-icons.net; see `assets/ATTRIBUTION.md`. The W emblem and wordmark are supplied Wobumii studio artwork. Visual inspiration: https://gitmastery.me/; no reference website code or assets were copied.
+The existing Project Pencil cover and QUINTARC seal are reused from the owner’s game projects. The seal incorporates the previously licensed open-book silhouette from Game-icons.net; see `assets/ATTRIBUTION.md`. The W emblem and wordmark are supplied Wobumii studio artwork.
 
 ## Studio branding
 
@@ -55,7 +55,7 @@ References: [Google structured data guidance](https://developers.google.com/sear
 
 ## Game reference content
 
-Project Pencil includes all 30 drawing recipes plus the permanent Pencil, seven base mobs, and its named guardians. QUINTARC includes 20 normal mobs, five shared Story/Ward bosses, and all 126 matching skill icons. `validation/guide-content-sources.json` records source paths, names, and copied icon hashes. Icon attribution is on the Credits page and in `assets/skill-icons/LICENSE.txt`.
+Project Pencil includes all 30 drawing recipes plus the permanent Pencil, seven base mobs, and its named guardians. QUINTARC includes 20 normal mobs, five elemental bosses with separate Story and Survival encounter rules, and all 126 matching skill icons. `validation/guide-content-sources.json` records source paths, names, and copied icon hashes. Icon attribution is on the Credits page and in `assets/skill-icons/LICENSE.txt`.
 
 Item and mob portraits are 512px Godot captures from isolated copies of the source geometry and licensed models, with Hole rendered from its actual recipe strokes. Original game projects were not edited.
 
@@ -91,7 +91,7 @@ hits reveal a transparent silhouette without friendly damage.
 
 Header and footer wordmarks share the same sizes: 168px on desktop/tablet, 155px on mobile. Both game covers retain their full 63:50 original proportions. Game-guide hero covers are noninteractive artwork. Cards, guide covers, mob portraits and item artwork reveal their source colors on hover; spell cards also support keyboard focus. Store-brand colors apply only to linked store buttons, with disabled stores remaining monochrome.
 
-The QUINTARC symbol guide uses 70 alphabetically ordered native details tiles, preserving all 126 spell interactions. Search by symbol, spell name or effect; expanding a tile reveals its complete list. Closed tiles share consistent header heights. Mob/guide headings, portraits and paragraph spacing use the shared card styles.
+The QUINTARC symbol guide uses 84 alphabetically ordered native details tiles, preserving all 126 spell interactions. Search by symbol, spell name or effect; expanding a tile reveals its complete list. Closed tiles share consistent header heights. Mob/guide headings, portraits and paragraph spacing use the shared card styles.
 
 ## Homepage mini game
 
@@ -114,3 +114,7 @@ backdrop across the frame, removing the square-on-white appearance.
 ## Game development disclosure
 
 Both game guides include a creative ownership and AI disclosure in their overview: story and mechanics by Anthony, assets from credited creators, AI used only as a coding assistant, and no AI-generated artwork.
+
+## Player guide and credits refresh — 2026-10-26
+
+Guides match deployed Project Pencil 0.6.36 and QUINTARC 0.1.15. Both have five native scene screenshots, staged for feature illustration. Current item/enemy portraits use the game’s active asset renderers. Pencil now documents the stone titan, skeletons, five slots, surface-specific drawing and multiplayer souls; QUINTARC documents four spell slots, Survival, current Mage customization, creature models, dome shields and all 126 current spells and symbol descriptions. Credits copy all current source notices while preserving historical licenses. The obsolete GitMastery inspiration credit has been removed at the owner’s request. See validation/store-guide-refresh-2026-10-26.json for checks and source references.

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+ <desc>Original QUINTARC Slow badge: a boot restrained by an ankle weight.</desc>
+ <g fill="white">
+  <path d="M240 51h112v158l23 52 86 37 17 26v75H227l-28-33 15-65 26-74z"/>
+  <path d="M219 413h259v32H219z"/>
+  <path d="M136 267l43-40 50 4 13 22-27 16-30-14-29 27z"/>
+  <path d="M107 287l33-25 22 20-29 32z"/>
+  <circle cx="93" cy="365" r="65"/>
+ </g>
+ <g fill="#14121e">
+  <path d="M251 194h84l9 24h-101z M257 274h38v18h-38z M249 312h48v18h-48z"/>
+  <path d="M59 350h68v25H59z"/>
+ </g>
+</svg>

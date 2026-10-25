@@ -386,3 +386,6 @@ main.wrap>.contact-section.wrap{width:100%}
 .studio-panel{position:relative}
 .studio-panel::before{content:"";position:absolute;left:-13px;top:-13px;width:20px;height:20px;border-left:1px solid #000;border-top:1px solid #000;pointer-events:none}
 @media(max-width:600px){.hero-detail{top:10px;width:68px;height:40px}.collection-detail{width:94px;height:16px;top:-24px}.game-overlay{padding:16px}.game-overlay h2{font-size:42px}.game-overlay>p:not(.eyebrow){font-size:11px;margin-bottom:18px}.game-overlay .eyebrow{font-size:8px}.game-toolbar{font-size:9px}.game-help{font-size:8px}.studio-panel::before{left:-9px;top:-9px;width:14px;height:14px}}
+
+/* Current game screenshot galleries. */
+.screenshot-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:24px}.screenshot-grid figure{margin:0;min-width:0;border:3px solid var(--ink,#111);background:var(--paper,#fff)}.screenshot-grid a{display:block}.screenshot-grid img{display:block;width:100%;height:auto}.screenshot-grid figcaption{padding:12px;font-size:.88rem;border-top:3px solid var(--ink,#111)}@media(max-width:640px){.screenshot-grid{grid-template-columns:1fr;gap:18px}}

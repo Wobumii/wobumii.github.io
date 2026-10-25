@@ -1,0 +1,7 @@
+KayKit Skeletons by Kay Lousberg
+https://kaylousberg.itch.io/kaykit-skeletons
+Quaternius Ultimate Monsters
+https://quaternius.com/packs/ultimatemonsters.html
+All models and original animations used under CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+See assets/enemies/sources.json for per-file provenance and hashes.
