@@ -71,5 +71,12 @@
     "project-pencil": 38,
     "quintarc": 25
   },
-  "limits": "Native screenshots are staged scenes from the deployed source versions, not complete playthroughs. Initial portrait attempts used fullscreen dimensions; final portraits are 512x512. Pencil reported shader-cache header fallback diagnostics; final captures were visually inspected. No gameplay changes or binary uploads."
+  "limits": "Native screenshots are staged scenes from the deployed source versions, not complete playthroughs. Initial portrait attempts used fullscreen dimensions; final portraits are 512x512. Pencil reported shader-cache header fallback diagnostics; final captures were visually inspected. No gameplay changes or binary uploads.",
+  "scope_correction": {
+    "new_guide_galleries_removed": true,
+    "itch_screenshots_retained": true,
+    "mob_names_match_deployed_labels": true,
+    "npc_descriptions_replaced_player_instructions": true,
+    "tide_squid_unsupported_stone_skiff_claim_removed": true
+  }
 }
