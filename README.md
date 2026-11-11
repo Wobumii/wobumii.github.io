@@ -120,3 +120,13 @@ Both game guides include a creative ownership and AI disclosure in their overvie
 Guides match deployed Project Pencil 0.6.36 and QUINTARC 0.1.15. Current item/enemy portraits use the game’s active asset renderers. Pencil now documents the stone titan, skeletons, five slots, surface-specific drawing and multiplayer souls; QUINTARC documents four spell slots, Survival, current Mage customization, creature models, dome shields and all 126 current spells and symbol descriptions. Credits copy all current source notices while preserving historical licenses. The obsolete GitMastery inspiration credit has been removed at the owner’s request. See validation/store-guide-refresh-2026-10-26.json for checks and source references.
 
 Scope correction: no new game-guide sections. The unrequested Inside the game galleries and navigation entries were removed. Screenshot refreshes remain on itch.io. Existing mob cards now describe NPC behavior without player cast-key, mana-cost or riding instructions; displayed names match the deployed builds.
+
+## Wiki and portrait correction — 2026-11-11
+
+MECHARNAGE uses the same evergreen player-guide format as the other games. Keep
+its mechanics, modes, progression, controls and install reference; keep screenshot
+galleries and the “Inside the game” navigation entry off the wiki.
+
+All mob and boss portrait frames use #141c30, matching the dark blue background
+in the source portraits. This also provides the same backdrop for transparent
+portraits. Preserve the shared grayscale and hover color behavior.
