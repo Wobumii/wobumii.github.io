@@ -1,0 +1,23 @@
+Project Pencil enemy models
+
+The following source models are published under CC0.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Cockroach — ffish.asia / floraZia.com, Black Cockroach (Periplaneta fuliginosa)
+https://sketchfab.com/3d-models/cc0-black-cockroach-p-fuliginosa-90cd28150c6b4bb2b777f3e4d398e20a
+
+Housefly — Digital Archive of Natural History (DiNArDa), Musca domestica
+https://sketchfab.com/3d-models/musca-domestica-157900941156422fbd9dcdfc38a3be19
+
+Ant — mujtaba-io, Ant 3D Model + Rigging + Animated
+https://opengameart.org/content/ant-3d-model-rigging-animated-low-poly-ish
+
+Mini rat — SceneCrate, Photoreal Alley Rat Creature
+https://scenecrate.com/
+Publisher file: https://scenecrate.com/worlds/free/ember-fox/lightweight.glb
+
+Rooftop rat — CDmir and TinyWorlds, Evil Giant Rat
+https://opengameart.org/content/evil-giant-rat
+
+The game adaptations reduce mesh complexity for the scans and mini rat,
+preserve the ant's walk and bite, and retain seven clips on the rooftop rat.
